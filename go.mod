@@ -1,3 +1,3 @@
-module github.com/patrickkdev/Go-Memory-Monitor
+module github.com/patrickkdev/rammonitor
 
 go 1.22.3
